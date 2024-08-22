@@ -104,7 +104,7 @@ Now, go to the `Source Control` icon on the left (three dots and a forked path w
 
  **Before** you click the button, you have to "stage changes". Hover your mouse over the line that says Changes. You should get icons that look like a page with + and - on it, a hook with an arrow end, and a plus. Click the +. Continue to each of the lines below it: most will give you a minus where the plus was above. If there are any + marks, click them.
 
-Now, click on the button that says `Commit`. You may get a pop-up with the option `Save All & Commit Changes` or you may get a button that says "Sync Changes". This will save your changes to the repo online.
+Now, click on the button that says `Commit`. You may get a pop-up with the option `Save All & Commit Changes` or you may get a button that says `Sync Changes`. This will save your changes to the repo online.
 
 ## Committing
 
