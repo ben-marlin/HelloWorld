@@ -100,7 +100,11 @@ So... there's a standard practice I want you to get into. Go up to the line afte
 
 Now, save your file by hitting Control-S or Command-S or File > Save. While VSCode will save your file before you run it, you should get in the habit of saving it manually, too.
 
-Now, go to the `Source Control` icon on the left (three dots and a forked path with a number over it). Click in the field that says `Message` and type a short suggestion of where you are in the project (probably "finished!"). Now, click on the button that says `Commit`. You should get a pop-up with the option `Save All & Commit Changes`. This will save your changes to the repo online.
+Now, go to the `Source Control` icon on the left (three dots and a forked path with a number over it). Click in the field that says `Message` and type a short suggestion of where you are in the project (probably "finished!"). 
+
+ **Before** you click the button, you have to "stage changes". Hover your mouse over the line that says Changes. You should get icons that look like a page with + and - on it, a hook with an arrow end, and a plus. Click the +. Continue to each of the lines below it: most will give you a minus where the plus was above. If there are any + marks, click them.
+
+Now, click on the button that says `Commit`. You should get a pop-up with the option `Save All & Commit Changes`. This will save your changes to the repo online.
 
 ## Committing
 
